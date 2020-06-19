@@ -1,4 +1,7 @@
+App can be accessed here:
+https://fir-course-496de.web.app/courses/serverless-angular
 
+...This is taken from the below course:
 ## Serverless Angular with Firebase & AngularFire Course
 
 This repository contains the code of the [Serverless Angular with Firebase & AngularFire Course](https://angular-university.io/course/firebase-course).
