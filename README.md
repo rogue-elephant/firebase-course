@@ -1,5 +1,5 @@
 App can be accessed here:
-https://fir-course-496de.web.app/courses/serverless-angular
+https://fir-course-496de.web.app
 
 ...This is taken from the below course:
 ## Serverless Angular with Firebase & AngularFire Course
